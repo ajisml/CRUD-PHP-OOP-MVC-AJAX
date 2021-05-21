@@ -3,7 +3,7 @@
 
 Untuk mengatur **Database** dan **Base Url**
 
-Buka file **folderProject>app>config/config.php**
+Buka file **folderProject/app/config/config.php**
 
 ```html
     // URL Home
